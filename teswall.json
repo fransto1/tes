@@ -18,92 +18,134 @@
       "link_redirect": "https://"
     }
   ],
-     "Categories": [
+    "More":
+  [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
+      "id":1,
+      "title":"Wallpaper Paralax",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "title":"Skin MCPE",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61b5c58e0d42c6-15280590-69156097.jpeg",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    },
+    {
+      "id":3,
+      "title":"Fake Call",
+      "image":"file:///android_asset/more/fake.jpg",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },
+    {
+      "id":4,
+      "title":"Keyboard",
+      "image":"file:///android_asset/more/keyboard.jpeg",
+      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61bd755556b8e8-26297378-14235742.jpeg",
+      "link":"https://aliendro.id/alien-frame-campaign-json-offline-online-117"
+    },
+    {
+      "id":6,
+      "title":"Mp3 Player",
+      "image":"https://aliendro.id/uploads/images/202108/img_1920x_61283f5394bc13-47210190-94326655.jpeg",
+      "link":"https://aliendro.id/alien-mp3-player-v22-10"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Ferrari",
+      "image": "file:///android_asset/category/ferrari_logo.webp"
 
     },
     {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "id": 2,
+      "name_category": "Lamborghini",
+      "image": "file:///android_asset/category/lamborghini.jpg"
 
     },
     {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "id": 3,
+      "name_category": "Mclaren",
+      "image": "https://aliendro.id/uploads/demo/walljson/mclaren_f1_team.jpg"
 
     },
     {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "id": 4,
+      "name_category": "Hari Nasional",
+      "image": "file:///android_asset/category/bugatti.jpg"
 
     }
   ],
 
-  "Data": [
-		{		
-		"id"	:	1,
-		"category"	:	"Hari Nasional",
-		"title"	:	"1",
-		"image_link"	:	"https://i.pinimg.com/564x/1b/16/3d/1b163d04c45ebf073ffe2c647ad95fa2.jpg"
-		},		
-		{		
-		"id"	:	2,
-		"category"	:	"Hari Nasional",
-		"title"	:	"2",
-		"image_link"	:	"https://i.pinimg.com/236x/fd/db/b9/fddbb9744b45d9f28a0eca23236722fd.jpg"
-		},		
-		{		
-		"id"	:	"3",
-		"category"	:	"Hari Nasional",
-		"title"	:	"3",
-		"image_link"	:	"https://i.pinimg.com/564x/8f/da/cb/8fdacb057ac7c4e27a5f37e9ad32ef52.jpg"
-		},		
-		{		
-		"id"	:	4,
-		"category"	:	"Hari Nasional",
-		"title"	:	"4",
-		"image_link"	:	"https://i.pinimg.com/736x/ea/b3/5e/eab35e7ed7b041eeca3bd0b1bde596e3.jpg"
-		},		
-		{		
-		"id"	:	5,
-		"category"	:	"Hari Nasional",
-		"title"	:	"5",
-		"image_link"	:	"https://i.pinimg.com/736x/e9/83/ea/e983eadf725cbed0b67dbeb9094f4744.jpg"
-		},		
-		{		
-		"id"	:	6,
-		"category"	:	"Hari Nasional",
-		"title"	:	"6",
-		"image_link"	:	"https://i.pinimg.com/736x/46/34/23/46342342e59b0cc101f7ffb7ea9395d5.jpg"
-		},		
-		{		
-		"id"	:	7,
-		"category"	:	"Hari Nasional",
-		"title"	:	"7",
-		"image_link"	:	"https://i.pinimg.com/736x/45/c9/6d/45c96dc1ae5b00385a462ed76ff9a857.jpg"
-		},		
-		{		
-		"id"	:	8,
-		"category"	:	"Hari Nasional",
-		"title"	:	"8",
-		"image_link"	:	"https://i.pinimg.com/736x/c2/ef/5b/c2ef5b1c6ffb79f8731f656f08c9d0fb.jpg"
-		},		
-		{		
-		"id"	:	9,
-		"category"	:	"Hari Nasional",
-		"title"	:	"9",
-		"image_link"	:	"https://i.pinimg.com/736x/86/3d/23/863d2381f0268a8ffa306a0afc545465.jpg"
-		},		
-		{		
-		"id"	:	10,
-		"category"	:	"Hari Nasional",
-		"title"	:	"10",
-		"image_link"	:	"https://i.pinimg.com/564x/74/49/b0/7449b0f3757e9a97f2c36604bc63434b.jpg"
-		}		
-
-
-
+  "Data":
+  [
+    	{		
+	"id"	:	1,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"1",
+	"image_link"	:	"https://i.pinimg.com/564x/1b/16/3d/1b163d04c45ebf073ffe2c647ad95fa2.jpg"
+	},		
+	{		
+	"id"	:	2,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"2",
+	"image_link"	:	"https://i.pinimg.com/236x/fd/db/b9/fddbb9744b45d9f28a0eca23236722fd.jpg"
+	},		
+	{		
+	"id"	:	"3",
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"3",
+	"image_link"	:	"https://i.pinimg.com/564x/8f/da/cb/8fdacb057ac7c4e27a5f37e9ad32ef52.jpg"
+	},		
+	{		
+	"id"	:	4,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"4",
+	"image_link"	:	"https://i.pinimg.com/736x/ea/b3/5e/eab35e7ed7b041eeca3bd0b1bde596e3.jpg"
+	},		
+	{		
+	"id"	:	5,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"5",
+	"image_link"	:	"https://i.pinimg.com/736x/e9/83/ea/e983eadf725cbed0b67dbeb9094f4744.jpg"
+	},		
+	{		
+	"id"	:	6,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"6",
+	"image_link"	:	"https://i.pinimg.com/736x/46/34/23/46342342e59b0cc101f7ffb7ea9395d5.jpg"
+	},		
+	{		
+	"id"	:	7,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"7",
+	"image_link"	:	"https://i.pinimg.com/736x/45/c9/6d/45c96dc1ae5b00385a462ed76ff9a857.jpg"
+	},		
+	{		
+	"id"	:	8,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"8",
+	"image_link"	:	"https://i.pinimg.com/736x/c2/ef/5b/c2ef5b1c6ffb79f8731f656f08c9d0fb.jpg"
+	},		
+	{		
+	"id"	:	9,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"9",
+	"image_link"	:	"https://i.pinimg.com/736x/86/3d/23/863d2381f0268a8ffa306a0afc545465.jpg"
+	},		
+	{		
+	"id"	:	10,
+	"name_category"	:	"Hari Nasional",
+	"title"	:	"10",
+	"image_link"	:	"https://i.pinimg.com/564x/74/49/b0/7449b0f3757e9a97f2c36604bc63434b.jpg"
+	}
   ]
 }
