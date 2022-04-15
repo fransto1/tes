@@ -42,66 +42,55 @@
   ],
 
   "Item": [
-		{		
-		"id"	:	1,
-		"category"	:	"Hari Nasional",
-		"title"	:	"1",
-		"image_link"	:	"https://aliendro.id/uploads/demo/walljson/ferrari2.jpg"
-		},		
-		{		
-		"id"	:	2,
-		"category"	:	"Hari Nasional",
-		"title"	:	"2",
-		"image_link"	:	"https://i.pinimg.com/236x/fd/db/b9/fddbb9744b45d9f28a0eca23236722fd.jpg"
-		},		
-		{		
-		"id"	:	"3",
-		"category"	:	"Hari Nasional",
-		"title"	:	"3",
-		"image_link"	:	"https://i.pinimg.com/564x/8f/da/cb/8fdacb057ac7c4e27a5f37e9ad32ef52.jpg"
-		},		
-		{		
-		"id"	:	4,
-		"category"	:	"Hari Nasional",
-		"title"	:	"4",
-		"image_link"	:	"https://i.pinimg.com/736x/ea/b3/5e/eab35e7ed7b041eeca3bd0b1bde596e3.jpg"
-		},		
-		{		
-		"id"	:	5,
-		"category"	:	"Hari Nasional",
-		"title"	:	"5",
-		"image_link"	:	"https://i.pinimg.com/736x/e9/83/ea/e983eadf725cbed0b67dbeb9094f4744.jpg"
-		},		
-		{		
-		"id"	:	6,
-		"category"	:	"Hari Nasional",
-		"title"	:	"6",
-		"image_link"	:	"https://i.pinimg.com/736x/46/34/23/46342342e59b0cc101f7ffb7ea9395d5.jpg"
-		},		
-		{		
-		"id"	:	7,
-		"category"	:	"Hari Nasional",
-		"title"	:	"7",
-		"image_link"	:	"https://i.pinimg.com/736x/45/c9/6d/45c96dc1ae5b00385a462ed76ff9a857.jpg"
-		},		
-		{		
-		"id"	:	8,
-		"category"	:	"Hari Nasional",
-		"title"	:	"8",
-		"image_link"	:	"https://i.pinimg.com/736x/c2/ef/5b/c2ef5b1c6ffb79f8731f656f08c9d0fb.jpg"
-		},		
-		{		
-		"id"	:	9,
-		"category"	:	"Hari Nasional",
-		"title"	:	"9",
-		"image_link"	:	"https://i.pinimg.com/736x/86/3d/23/863d2381f0268a8ffa306a0afc545465.jpg"
-		},		
-		{		
-		"id"	:	10,
-		"category"	:	"Hari Nasional",
-		"title"	:	"10",
-		"image_link"	:	"https://i.pinimg.com/564x/74/49/b0/7449b0f3757e9a97f2c36604bc63434b.jpg"
-		}		
+		{
+      "id":1,
+      "name_category": "Ferrari",
+      "title":"Ferrari 01",
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Ferrari",
+      "title": "Ferrari 02",
+      "image": "https://aliendro.id/uploads/demo/walljson/ferrari2.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Ferrari",
+      "title":"Ferrari 03",
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Lamborghini",
+      "title":"Veneno",
+      "image":"https://aliendro.id/uploads/demo/walljson/aventador.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Bugatti",
+      "title":"Bugatti Veyron",
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Bugatti",
+      "title":"Bugatti Chiron",
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Mclaren",
+      "title":"Mclaren f1",
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Mclaren",
+      "title":"Mclaren P1",
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+    }		
 
 
 
