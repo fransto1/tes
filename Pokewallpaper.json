@@ -1,13 +1,13 @@
 {"Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "GOKIL-ADS",
+      "select_backup_ads":"GOKIL-ADS",
       "main_ads_banner": "ca-app-pub-3940256099942544/2247696110",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-	"main_ads_intertitial_lovin": "e18ce0bd45c05951",
-      "backup_ads_banner":"db4d5e8718b97d780",
+	  "main_ads_intertitial_lovin": "e18ce0bd45c05951",
+      "backup_ads_banner":"8542cbd043156661",
       "backup_ads_intertitial":"e18ce0bd45c05951",
-      "interval_intertitial": 1,
+      "interval_intertitial": 0,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
