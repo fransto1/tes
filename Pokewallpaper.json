@@ -63,13 +63,13 @@
     {
       "id": 1,
       "category": "Poke Wallpaper",
-      "image": "https://i.pinimg.com/564x/cf/bb/68/cfbb68b052906b541d15a7eb82d1ba91.jpg"
+      "image_link": "https://i.pinimg.com/564x/cf/bb/68/cfbb68b052906b541d15a7eb82d1ba91.jpg"
 
     },
     {
       "id": 2,
       "category": "Trending",
-      "image": "https://i.pinimg.com/564x/4c/88/32/4c88327a37a59b564be167f66b0fb7c7.jpg"
+      "image_link": "https://i.pinimg.com/564x/4c/88/32/4c88327a37a59b564be167f66b0fb7c7.jpg"
 
     }
     
