@@ -5,6 +5,7 @@
       "select_backup_ads":"GOKIL-APPLOVIN",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"e18ce0bd45c05951",
+	"main_ads_intertitial_lovin":"e18ce0bd45c05951",
       "main_native_ads_Admob_or_applovin":"8542cbd043156661",
       "backup_native_ads_Admob_or_applovin":"8542cbd043156661",
       "backup_ads_banner":"",
