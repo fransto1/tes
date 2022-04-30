@@ -9,7 +9,7 @@
       "backup_native_ads_Admob_or_applovin":"41dd1d3445913f7f",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"688ca1352b1391e3",
-      "interval_intertitial": 0,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "on_off_category": "1",
