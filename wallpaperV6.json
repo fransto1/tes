@@ -9,7 +9,7 @@
       "backup_native_ads_Admob_or_applovin":"8542cbd043156661",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"e18ce0bd45c05951",
-      "interval_intertitial": 1,
+      "interval_intertitial": 0,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "on_off_category": "1",
@@ -20,7 +20,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "matikan_iklan":"1"
+      "matikan_iklan":"0"
     }
   ],
   "More":
