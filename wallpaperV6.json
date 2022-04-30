@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": "GOKIL-APPLOVIN",
+      "select_main_ads": "GOKIL-ADMOB",
       "select_backup_ads":"GOKIL-APPLOVIN",
       "main_ads_banner": "8542cbd043156661",
       "main_ads_intertitial":"e18ce0bd45c05951",
