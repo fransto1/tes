@@ -1,0 +1,58 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_native_for_admob_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB.jpeg",
+      "link_mods":"https://archive.org/download/mod-bussid-sr-2-xhd-prime-scania-k-410i-b-by-unity-mods-project/MOD%20BUSSID%20SR2%20XHD%20Prime%20Scania%20K410iB%20by%20Unity%20Mods%20Project.bussidmod",
+      "link_livery":"https://ia902504.us.archive.org/0/items/livery-hr-hercules-197-scania-k-410-ib-sr-2-tronton-ump-by-garasitube/Livery%20HR%20Hercules%20197%20Scania%20K410IB%20SR2%20Tronton%20UMP%20by%20Garasitube.png"
+    },
+    {
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    }
+  ,
+    {
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+    } ,
+    {
+      "title":"Jaguar XE SV Project 8",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    }
+  ]
+}
