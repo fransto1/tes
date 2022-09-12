@@ -1,0 +1,213 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120",
+	  "main_ads_intertitial_lovin":"4577fc1f6304aea6",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_ads_Admob_or_applovin":"a5f2c8e333e67a56",
+      "backup_ads_banner":"8542cbd0431566610",
+      "backup_ads_intertitial":"4577fc1f6304aea6",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      
+      "on_off_category": "1",
+      
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+      
+      "matikan_iklan":"0",
+      
+      "matikan_download":"1",
+      "aff_ads":"0",
+      "link_aff":"https://shope.ee/5UtBlDa63X"
+      
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+        {
+            "id": "1",
+            "name_category": "Alat Dapur",
+            "image": "https://cf.shopee.co.id/file/f0b1f2efbda1ee4153529f6817325342_tn"
+        },
+        {
+            "id": "2",
+            "name_category": "Campur",
+            "image": "https://cf.shopee.co.id/file/2b37c319849ccdac13283502e213d9e2_tn"
+        },
+        {
+            "id": "3",
+            "name_category": "Bayi",
+            "image": "https://cf.shopee.co.id/file/1ea83763f4ee98311c5338aa465201fe_tn"
+        },
+        {
+            "id": "4",
+            "name_category": "Baju wanita",
+            "image": "https://cf.shopee.co.id/file/302e2a5554450961f97fadf648bc0264_tn"
+        }
+    ],
+    "Data": [
+        {
+            "id": "1",
+            "name_category": "Alat Dapur",
+            "title": "AKIBAT MENJADI PENGANGGURAN - ALUR CERITA FILM",
+            "image": "1.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/AKIBAT%20MENJADI%20PENGANGGURAN%20-%20ALUR%20CERITA%20FILM.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/AKIBAT%20MENJADI%20PENGANGGURAN%20-%20ALUR%20CERITA%20FILM.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/AKIBAT%20MENJADI%20PENGANGGURAN%20-%20ALUR%20CERITA%20FILM.mp4",
+            "nama_file": ""
+        },
+        {
+            "id": "2",
+            "name_category": "Alat Dapur",
+            "title": "BERCOCOK TANAM TANPA HENTI DENGAN BANYAK G4D1S C4NT1K‼️ Alur Cerita Film",
+            "image": "2.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BERCOCOK%20TANAM%20TANPA%20HENTI%20DENGAN%20BANYAK%20G4D1S%20C4NT1K%E2%80%BC%EF%B8%8F%20Alur%20Cerita%20Film.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BERCOCOK%20TANAM%20TANPA%20HENTI%20DENGAN%20BANYAK%20G4D1S%20C4NT1K%E2%80%BC%EF%B8%8F%20Alur%20Cerita%20Film.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BERCOCOK%20TANAM%20TANPA%20HENTI%20DENGAN%20BANYAK%20G4D1S%20C4NT1K%E2%80%BC%EF%B8%8F%20Alur%20Cerita%20Film.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "3",
+            "name_category": "Alat Dapur",
+            "title": "BI4RAWATI C4NTlK YANG SELALU MERASA 3NG4S BRUTAAAL - Alur Film Yagitulah",
+            "image": "3.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BI4RAWATI%20C4NTlK%20YANG%20SELALU%20MERASA%203NG4S%20BRUTAAAL%20-%20Alur%20Film%20Yagitulah.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BI4RAWATI%20C4NTlK%20YANG%20SELALU%20MERASA%203NG4S%20BRUTAAAL%20-%20Alur%20Film%20Yagitulah.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BI4RAWATI%20C4NTlK%20YANG%20SELALU%20MERASA%203NG4S%20BRUTAAAL%20-%20Alur%20Film%20Yagitulah.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "4",
+            "name_category": "Alat Dapur",
+            "title": "BOC1L SMP YANG AKHIRNYA BERHASIL MELEPAS P3RJ4KANYA.. Alur Film Boy ln The Terraces",
+            "image": "4.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BOC1L%20SMP%20YANG%20AKHIRNYA%20BERHASIL%20MELEPAS%20P3RJ4KANYA..%20Alur%20Film%20Boy%20ln%20The%20Terraces.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BOC1L%20SMP%20YANG%20AKHIRNYA%20BERHASIL%20MELEPAS%20P3RJ4KANYA..%20Alur%20Film%20Boy%20ln%20The%20Terraces.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/BOC1L%20SMP%20YANG%20AKHIRNYA%20BERHASIL%20MELEPAS%20P3RJ4KANYA..%20Alur%20Film%20Boy%20ln%20The%20Terraces.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "5",
+            "name_category": "Alat Dapur",
+            "title": "Daftar Film Yang Adegan W1k W1!KNya Dilakukan Secara Nyata",
+            "image": "5.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/Daftar%20Film%20Yang%20Adegan%20W1k%20W1%21KNya%20Dilakukan%20Secara%20Nyata%20_%20SAGATV%20Official.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/Daftar%20Film%20Yang%20Adegan%20W1k%20W1%21KNya%20Dilakukan%20Secara%20Nyata%20_%20SAGATV%20Official.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/Daftar%20Film%20Yang%20Adegan%20W1k%20W1%21KNya%20Dilakukan%20Secara%20Nyata%20_%20SAGATV%20Official.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "6",
+            "name_category": "Alat Dapur",
+            "title": "HABIS EN4K-EN4K SAMA IBUNYA, LANJUT SAMA ANAKNYA!",
+            "image": "6.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/HABIS%20EN4K-EN4K%20SAMA%20IBUNYA%2C%20LANJUT%20SAMA%20ANAKNYA%21%20_%20ALUR%20CERITA%20FILM%20ROMANTIS.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/HABIS%20EN4K-EN4K%20SAMA%20IBUNYA%2C%20LANJUT%20SAMA%20ANAKNYA%21%20_%20ALUR%20CERITA%20FILM%20ROMANTIS.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/HABIS%20EN4K-EN4K%20SAMA%20IBUNYA%2C%20LANJUT%20SAMA%20ANAKNYA%21%20_%20ALUR%20CERITA%20FILM%20ROMANTIS.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "7",
+            "name_category": "Alat Dapur",
+            "title": "KETIKA ISTR1 RAJA DIGENJOD RAKYAT BIASA",
+            "image": "7.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/KETIKA%20ISTR1%20RAJA%20DIGENJOD%20RAKYAT%20BIASA...%20_%20Marie%20Antoinette.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/KETIKA%20ISTR1%20RAJA%20DIGENJOD%20RAKYAT%20BIASA...%20_%20Marie%20Antoinette.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/KETIKA%20ISTR1%20RAJA%20DIGENJOD%20RAKYAT%20BIASA...%20_%20Marie%20Antoinette.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "8",
+            "name_category": "Alat Dapur",
+            "title": "KETIKA KlDS GAADA AKHLAK SELALU DIBELAIN 0RANG-0RANG",
+            "image": "8.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/KETIKA%20KlDS%20GAADA%20AKHLAK%20SELALU%20DIBELAIN%200RANG-0RANG%E2%80%A6.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/KETIKA%20KlDS%20GAADA%20AKHLAK%20SELALU%20DIBELAIN%200RANG-0RANG%E2%80%A6.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/KETIKA%20KlDS%20GAADA%20AKHLAK%20SELALU%20DIBELAIN%200RANG-0RANG%E2%80%A6.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "9",
+            "name_category": "Alat Dapur",
+            "title": "PRIA INI JAGO BIKIN BAS4H BANYAK M4MAH GUR!H",
+            "image": "9.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/PRIA%20INI%20JAGO%20BIKIN%20BAS4H%20BANYAK%20M4MAH%20GUR%21H%20_%20Alur%20Cerita%20Film.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/PRIA%20INI%20JAGO%20BIKIN%20BAS4H%20BANYAK%20M4MAH%20GUR%21H%20_%20Alur%20Cerita%20Film.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/PRIA%20INI%20JAGO%20BIKIN%20BAS4H%20BANYAK%20M4MAH%20GUR%21H%20_%20Alur%20Cerita%20Film.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "10",
+            "name_category": "Alat Dapur",
+            "title": "Ratu Tercantik Paling M3sum Di dunia",
+            "image": "10.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/Ratu%20Tercantik%20Paling%20M3sum%20Di%20dunia%20__%20%E2%99%A6%EF%B8%8FAlur%20Cerita%20Film%20Keluarga.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/Ratu%20Tercantik%20Paling%20M3sum%20Di%20dunia%20__%20%E2%99%A6%EF%B8%8FAlur%20Cerita%20Film%20Keluarga.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/Ratu%20Tercantik%20Paling%20M3sum%20Di%20dunia%20__%20%E2%99%A6%EF%B8%8FAlur%20Cerita%20Film%20Keluarga.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "11",
+            "name_category": "Alat Dapur",
+            "title": "SAAT KIDS C4NTIK DIPOROT1N SI 0M GEGARA P4P TOKET",
+            "image": "11.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SAAT%20KIDS%20C4NTIK%20DIPOROT1N%20SI%200M%20GEGARA%20P4P%20TOK%E2%82%ACT%20-%20Alur%20film%20The%20hot%20spot.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SAAT%20KIDS%20C4NTIK%20DIPOROT1N%20SI%200M%20GEGARA%20P4P%20TOK%E2%82%ACT%20-%20Alur%20film%20The%20hot%20spot.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SAAT%20KIDS%20C4NTIK%20DIPOROT1N%20SI%200M%20GEGARA%20P4P%20TOK%E2%82%ACT%20-%20Alur%20film%20The%20hot%20spot.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "12",
+            "name_category": "Alat Dapur",
+            "title": "SEMUA KARENA CINTA",
+            "image": "12.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SEMUA%20KARENA%20CINTA%20--%20ALUR%20CERITA%20FILM.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SEMUA%20KARENA%20CINTA%20--%20ALUR%20CERITA%20FILM.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SEMUA%20KARENA%20CINTA%20--%20ALUR%20CERITA%20FILM.mp4",
+            "nama_file": ""
+        },
+      {
+            "id": "13",
+            "name_category": "Alat Dapur",
+            "title": "SETIAP TENGAH MALAM AKU SELALU DIMANJA TETANGGAKU!",
+            "image": "13.jpg",
+            "link_mods": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SETIAP%20TENGAH%20MALAM%20AKU%20SELALU%20DIMANJA%20TETANGGAKU%21%20_%20ALUR%20CERITA%20FILM%20ROMANTIS.mp4",
+            "link_livery": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SETIAP%20TENGAH%20MALAM%20AKU%20SELALU%20DIMANJA%20TETANGGAKU%21%20_%20ALUR%20CERITA%20FILM%20ROMANTIS.mp4",
+            "link_short": "https://archive.org/download/ratu-tercantik-paling-m-3sum-di-dunia-alur-cerita-film-keluarga/SETIAP%20TENGAH%20MALAM%20AKU%20SELALU%20DIMANJA%20TETANGGAKU%21%20_%20ALUR%20CERITA%20FILM%20ROMANTIS.mp4",
+            "nama_file": ""
+        }
+      
+  ]
+}
