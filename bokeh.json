@@ -1,0 +1,75 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120",
+	  "main_ads_intertitial_lovin":"4577fc1f6304aea60",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_ads_Admob_or_applovin":"a5f2c8e333e67a560",
+      "backup_ads_banner":"8542cbd0431566610",
+      "backup_ads_intertitial":"4577fc1f6304aea60",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      
+      "on_off_category": "1",
+      
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "0",
+      "link_redirect": "https://",
+      
+      "matikan_iklan":"0",
+      
+      "matikan_download":"1",
+      "aff_ads":"0",
+      "link_aff":"https://shope.ee/5UtBlDa63X"
+      
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+        {
+            "id": "1",
+            "name_category": "Romantis",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/3.jpg"
+        }
+    ],
+    "Data": [
+        {
+            "id": "1",
+            "name_category": "Romatis",
+            "title": "KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/1.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI.mp4"
+        },
+        {
+            "id": "2",
+            "name_category": "Romatis",
+            "title": "D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/2.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film.mp4"
+        }
+        
+    ]
+      
+}
