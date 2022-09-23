@@ -4,12 +4,12 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120",
-	  "main_ads_intertitial_lovin":"4577fc1f6304aea60",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "main_ads_intertitial":"ca-app-pub-3989213914018779/7116718595",
+	  "main_ads_intertitial_lovin":"4c955acc8eecc5e9",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3989213914018779/7847346333",
       "backup_native_ads_Admob_or_applovin":"a5f2c8e333e67a560",
       "backup_ads_banner":"8542cbd0431566610",
-      "backup_ads_intertitial":"4577fc1f6304aea60",
+      "backup_ads_intertitial":"4c955acc8eecc5e9",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -46,122 +46,101 @@
   "Categories": [
         {
             "id": "1",
-            "name_category": "Bayi",
-            "image": "https://cf.shopee.co.id/file/582aabf9765df3a8ca577bb0ab002467_tn"
+            "name_category": "Romantis",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/3.jpg"
         }
     ],
     "Data": [
         {
             "id": "1",
-            "name_category": "Bayi",
-            "title": "Baby Leon - Celana Bayi Bordir 1 Pcs Newborn Gy-S81 Celana Diaper Celana Popok Celana Panjang Anak",
-            "image": "https://cf.shopee.co.id/file/4c8c40e245269323814b7c3f595adbd9_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/0ed1f5456d4d2595f499223cdb83803a",
-            "link_livery": "https://shopee.co.id/Baby-Leon-Celana-Bayi-Bordir-1-Pcs-Newborn-Gy-S81-Celana-Diaper-Celana-Popok-Celana-Panjang-Anak-i.422297890.5190136037?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=51073866-5257-4cb9-a8d1-dfb67f4f7181&xptdk=51073866-5257-4cb9-a8d1-dfb67f4f7181",
-            "link_short": "https://cvf.shopee.co.id/file/0ed1f5456d4d2595f499223cdb83803a",
-            "nama_file": "0ed1f5456d4d2595f499223cdb83803a"
+            "name_category": "Romatis",
+            "title": "KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/1.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KET!KA SU4MI T!DAK B!SA M3MU4SK4N H4SR4T S4NG !STRI.mp4"
         },
         {
             "id": "2",
-            "name_category": "Bayi",
-            "title": "Sumimo Oochii Oochii Set",
-            "image": "https://cf.shopee.co.id/file/2818733c2d3a3627f97ea62c94d8f2fd_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/0747bcb64cf0f0209cd006250d08aaea",
-            "link_livery": "https://shopee.co.id/Sumimo-Oochii-Oochii-Set-i.418533863.16916195025?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=23d342ef-34f4-4f35-abef-3ecc40e1db74&xptdk=23d342ef-34f4-4f35-abef-3ecc40e1db74",
-            "link_short": "https://cvf.shopee.co.id/file/0747bcb64cf0f0209cd006250d08aaea",
-            "nama_file": "0747bcb64cf0f0209cd006250d08aaea"
+            "name_category": "Romatis",
+            "title": "D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/2.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/D!G3NJ0T C4C!NG JUMBO SAMPAI N4NG!S‼️Alur Cerita Film.mp4"
         },
         {
             "id": "3",
-            "name_category": "Baju wanita",
-            "title": "Orimoza jilbab pashmina premium",
-            "image": "https://cf.shopee.co.id/file/582aabf9765df3a8ca577bb0ab002467_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/KOsCeZT2LVXUYllN",
-            "link_livery": "https://shopee.co.id/Orimoza-jilbab-pashmina-premium-i.21001763.3716874529?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=f2b951d0-b606-45a2-b51d-058226849d8e&xptdk=f2b951d0-b606-45a2-b51d-058226849d8e",
-            "link_short": "https://cvf.shopee.co.id/file/KOsCeZT2LVXUYllN",
-            "nama_file": "KOsCeZT2LVXUYllN"
+            "name_category": "Romatis",
+            "title": "lSTR! ORANG MEMANG BEDA DAN MEMBUAT SEMUANYA MENJADI LUPA",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/3.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/lSTR! ORANG MEMANG BEDA DAN MEMBUAT SEMUANYA MENJADI LUPA.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/lSTR! ORANG MEMANG BEDA DAN MEMBUAT SEMUANYA MENJADI LUPA.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/lSTR! ORANG MEMANG BEDA DAN MEMBUAT SEMUANYA MENJADI LUPA.mp4"
         },
         {
             "id": "4",
-            "name_category": "Baju wanita",
-            "title": "Orimoza Pashmina Diamond Sabyan",
-            "image": "https://cf.shopee.co.id/file/bf90c697d5d37ec0b0799aea0369f6ed_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/KOQCYgWMDiHLvqvU",
-            "link_livery": "https://shopee.co.id/Orimoza-Pashmina-Diamond-Sabyan-i.21001763.2631528464?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=1cf210ac-5baf-43e9-9028-07996b694432&xptdk=1cf210ac-5baf-43e9-9028-07996b694432",
-            "link_short": "https://cvf.shopee.co.id/file/KOQCYgWMDiHLvqvU",
-            "nama_file": "KOQCYgWMDiHLvqvU"
+            "name_category": "Romatis",
+            "title": "WANITA CANTIK JUGA BUTUH KEPUASAN",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/4.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/WANITA CANTIK JUGA BUTUH KEPUASAN.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/WANITA CANTIK JUGA BUTUH KEPUASAN.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/WANITA CANTIK JUGA BUTUH KEPUASAN.mp4"
         },
         {
             "id": "5",
-            "name_category": "Baju wanita",
-            "title": "ADA - Blouse Hazel Crop Cut",
-            "image": "https://cf.shopee.co.id/file/f299f38ba593fa27e7e9507c11ced401_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/ffd4c702f18e5d9da2269775d45efc89",
-            "link_livery": "https://shopee.co.id/ADA-Blouse-Hazel-Crop-Cut-i.54717007.6855798494?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=14bcdf26-7523-4a13-aa66-c244f5b2f720&xptdk=14bcdf26-7523-4a13-aa66-c244f5b2f720",
-            "link_short": "https://cvf.shopee.co.id/file/ffd4c702f18e5d9da2269775d45efc89",
-            "nama_file": "ffd4c702f18e5d9da2269775d45efc89"
+            "name_category": "Romatis",
+            "title": "TINGGAL SERUMAH DENGAN BU DOSEN",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/5.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/TINGGAL SERUMAH DENGAN BU DOSEN.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/TINGGAL SERUMAH DENGAN BU DOSEN.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/TINGGAL SERUMAH DENGAN BU DOSEN.mp4"
         },
         {
             "id": "6",
-            "name_category": "Baju wanita",
-            "title": "Baju Setelan Wanita Kekinian - One set Wanita - Setelan Tunik - St Cantik- Tunika",
-            "image": "https://cf.shopee.co.id/file/9c4f39707adba5b1928c7e3935b34af9_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/ff1da11c0b1403bf40ffc6d07790883f",
-            "link_livery": "https://shopee.co.id/Baju-Setelan-Wanita-Kekinian-One-set-Wanita-Setelan-Tunik-St-Cantik-Tunika-i.372506284.12993757770?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=5ad4c6c1-4ddd-4575-8b69-605b9de60930&xptdk=5ad4c6c1-4ddd-4575-8b69-605b9de60930",
-            "link_short": "https://cvf.shopee.co.id/file/ff1da11c0b1403bf40ffc6d07790883f",
-            "nama_file": "ff1da11c0b1403bf40ffc6d07790883f"
+            "name_category": "Romatis",
+            "title": "SUAMI GA KUAT LAGI CARI BRONDONG AJA",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/6.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/SUAMI GA KUAT LAGI CARI BRONDONG AJA.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/SUAMI GA KUAT LAGI CARI BRONDONG AJA.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/SUAMI GA KUAT LAGI CARI BRONDONG AJA.mp4"
         },
         {
             "id": "7",
-            "name_category": "Baju wanita",
-            "title": "ADA - Cardigan Yola Knit Crop Baloon Sleeve",
-            "image": "https://cf.shopee.co.id/file/a167a45ea18c52becbcd3cbd3ae25122_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/fe0f835d16782d07a0139238dee73b7a",
-            "link_livery": "https://shopee.co.id/ADA-Cardigan-Yola-Knit-Crop-Baloon-Sleeve-i.54717007.11008766264?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=57a09f12-0136-4f26-8ac7-4d24206e07c0&xptdk=57a09f12-0136-4f26-8ac7-4d24206e07c0",
-            "link_short": "https://cvf.shopee.co.id/file/fe0f835d16782d07a0139238dee73b7a",
-            "nama_file": "fe0f835d16782d07a0139238dee73b7a"
+            "name_category": "Romatis",
+            "title": "GAK PUNYA PACAR BAPAK TEMAN KU PUN JADI",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/7.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/GAK PUNYA PACAR BAPAK TEMAN KU PUN JADI.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/GAK PUNYA PACAR BAPAK TEMAN KU PUN JADI.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/GAK PUNYA PACAR BAPAK TEMAN KU PUN JADI.mp4"
         },
         {
             "id": "8",
-            "name_category": "Baju wanita",
-            "title": "Orimoza Rok Plisket Wanita Lingkar Pinggang 110cm",
-            "image": "https://cf.shopee.co.id/file/575885f0f1d9c11a34901d5a3a997ee7_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/fb9bc810c4ea3e06b8a6039fa838337d",
-            "link_livery": "https://shopee.co.id/Orimoza-Rok-Plisket-Wanita-Lingkar-Pinggang-110cm-i.21001763.3464882798?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=02e8688a-03d4-4fa8-b65b-f319ec95da17&xptdk=02e8688a-03d4-4fa8-b65b-f319ec95da17",
-            "link_short": "https://cvf.shopee.co.id/file/fb9bc810c4ea3e06b8a6039fa838337d",
-            "nama_file": "fb9bc810c4ea3e06b8a6039fa838337d"
+            "name_category": "Romatis",
+            "title": "KALO GINI MAH AUTO BETAH TINGGAL DI RUMAH NIH",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/8.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KALO GINI MAH AUTO BETAH TINGGAL DI RUMAH NIH.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KALO GINI MAH AUTO BETAH TINGGAL DI RUMAH NIH.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KALO GINI MAH AUTO BETAH TINGGAL DI RUMAH NIH.mp4"
         },
         {
             "id": "9",
-            "name_category": "Baju wanita",
-            "title": "Baju Anak Perempuan - Tunik Anak - Baju Anak Impor - Nona Love - tunika",
-            "image": "https://cf.shopee.co.id/file/70024364e5fb42bd860c285279c83340_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/fb82f307327920e1ce893d409c9dede1",
-            "link_livery": "https://shopee.co.id/Baju-Anak-Perempuan-Tunik-Anak-Baju-Anak-Impor-Nona-Love-tunika-i.372506284.13182653329?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=6f51e9ac-0fad-4602-8fed-f0650292f2e4&xptdk=6f51e9ac-0fad-4602-8fed-f0650292f2e4",
-            "link_short": "https://cvf.shopee.co.id/file/fb82f307327920e1ce893d409c9dede1",
-            "nama_file": "fb82f307327920e1ce893d409c9dede1"
+            "name_category": "Romatis",
+            "title": "Dimasa Depan Semua Wanita Cantik dan Kaya BEBAS",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/9.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/Dimasa Depan Semua Wanita Cantik dan Kaya BEBAS.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/Dimasa Depan Semua Wanita Cantik dan Kaya BEBAS.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/Dimasa Depan Semua Wanita Cantik dan Kaya BEBAS.mp4"
         },
         {
             "id": "10",
-            "name_category": "Baju wanita",
-            "title": "St Aveta / Set Baju Anak Laki / Tunika",
-            "image": "https://cf.shopee.co.id/file/e1e8034094e0e5a0609adc647a6dedce_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/facd129af85342b100132fe7c7062972",
-            "link_livery": "https://shopee.co.id/St-Aveta-Set-Baju-Anak-Laki-Tunika-i.372506284.15159215388?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=0ab46d13-0892-491d-aa66-a31a87e46a95&xptdk=0ab46d13-0892-491d-aa66-a31a87e46a95",
-            "link_short": "https://cvf.shopee.co.id/file/facd129af85342b100132fe7c7062972",
-            "nama_file": "facd129af85342b100132fe7c7062972"
-        },
-        {
-            "id": "11",
-            "name_category": "Baju wanita",
-            "title": "Gamis Anak - Baju Anak Perempuan - Baju Muslim Anak Perempuan - Baju Anak Karakter - Nona Love Nona Cesi Nona Unic - Tunika",
-            "image": "https://cf.shopee.co.id/file/382d645e22a861aa27fd5e649d0b22f8_tn",
-            "link_mods": "https://cvf.shopee.co.id/file/f934f336f2f66f7924719306c5e2b52d",
-            "link_livery": "https://shopee.co.id/Gamis-Anak-Baju-Anak-Perempuan-Baju-Muslim-Anak-Perempuan-Baju-Anak-Karakter-Nona-Love-Nona-Cesi-Nona-Unic-Tunika-i.372506284.15764272279?&utm_campaign=-&utm_content=alatmasakcampur-fb---&utm_medium=affiliates&utm_source=an_11388380243?sp_atk=0cd5f26c-7a3d-4c81-ad23-e9870bbf0e5a&xptdk=0cd5f26c-7a3d-4c81-ad23-e9870bbf0e5a",
-            "link_short": "https://cvf.shopee.co.id/file/f934f336f2f66f7924719306c5e2b52d",
-            "nama_file": "f934f336f2f66f7924719306c5e2b52d"
-        },
-        
+            "name_category": "Romatis",
+            "title": "KUN1KM4T1 15TR1 T3M4NKU",
+            "image": "https://ia601409.us.archive.org/16/items/2_20220919_20220919_1243/10.jpg",
+            "link_mods": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KUN1KM4T1 15TR1 T3M4NKU.mp4",
+            "link_livery": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KUN1KM4T1 15TR1 T3M4NKU.mp4",
+            "link_short": "https://ia601408.us.archive.org/25/items/kun-1-km-4-t-1-15-tr-1-t-3-m-4-nku/KUN1KM4T1 15TR1 T3M4NKU.mp4"
+        }
     ]
       
 }
